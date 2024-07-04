@@ -1,0 +1,14 @@
+C:\Users\second_me\source\repos\to02\to02\bin\Debug\net8.0\to02.exe
+C:\Users\second_me\source\repos\to02\to02\bin\Debug\net8.0\to02.deps.json
+C:\Users\second_me\source\repos\to02\to02\bin\Debug\net8.0\to02.runtimeconfig.json
+C:\Users\second_me\source\repos\to02\to02\bin\Debug\net8.0\to02.dll
+C:\Users\second_me\source\repos\to02\to02\bin\Debug\net8.0\to02.pdb
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.AssemblyInfoInputs.cache
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.AssemblyInfo.cs
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.csproj.CoreCompileInputs.cache
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.dll
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\refint\to02.dll
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.pdb
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\to02.genruntimeconfig.cache
+C:\Users\second_me\source\repos\to02\to02\obj\Debug\net8.0\ref\to02.dll
